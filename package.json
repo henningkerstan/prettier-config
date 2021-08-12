@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "My personal configuration for Prettier.",
   "files": [
-    "index.json"
+    "index.js"
   ],
-  "main": "index.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"No test possible/necessary.\""
   },
