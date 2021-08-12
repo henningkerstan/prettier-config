@@ -4,8 +4,6 @@ My personal configuration for [Prettier](https://prettier.io/). It makes the fol
 - I do not like semicolons everywhere, hence it sets `semi: false` and
 - I prefer single over double quotes, hence it sets `singleQuote: true`.
 
-
-
 ## Install and use
 1. Install this package using npm
 ```
@@ -17,3 +15,7 @@ npm i --save-dev @henningkerstan/prettier-config
 "prettier": "@henningkerstan/prettier-config"
 ```
 
+## License
+Copyright 2021 [Henning Kerstan](https://henningkerstan.de)
+
+SPDX-License-Identifier: Apache-2.0
