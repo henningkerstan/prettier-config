@@ -1,6 +1,6 @@
 {
   "name": "@henningkerstan/prettier-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "My personal configuration for Prettier.",
   "files": [
     "index.json"
