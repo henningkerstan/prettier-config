@@ -2,6 +2,9 @@
   "name": "@henningkerstan/prettier-config",
   "version": "0.0.0",
   "description": "My personal configuration for Prettier.",
+  "files": [
+    "index.json"
+  ],
   "main": "index.json",
   "scripts": {
     "test": "echo \"No test possible/necessary.\""
@@ -15,5 +18,8 @@
   "devDependencies": {
     "np": "^7.5.0",
     "prettier": "^2.3.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
